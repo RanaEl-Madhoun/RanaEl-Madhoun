@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rana Al-Madhoun  
-### Software Engineer | Mobile Developer (Flutter & Android)  
+### Software Engineer | Mobile Developer   
 
 💡 Passionate about building apps that make life easier and more inclusive.  
 🌱 Currently improving my skills in Native Mobile Applications.
@@ -14,13 +14,10 @@
 ---
 
 ## 📱 Featured Projects
+  
 ### 1. Delivery App  
 A Flutter + Firebase app for connecting local businesses with customers.  
-🔗 [GitHub Repo](#) | 📷 *[Add Screenshot]*  
-
-### 1. Delivery App  
-A Flutter + Firebase app for connecting local businesses with customers.  
-🔗 <img width="1080" height="1080" alt="mockenglish" src="https://github.com/user-attachments/assets/eac2439a-a35a-4fe2-b8dd-1261181df333" />
+🔗 <img width="500" height="500" alt="mockenglish" src="https://github.com/user-attachments/assets/eac2439a-a35a-4fe2-b8dd-1261181df333" />
 
 
 ---
