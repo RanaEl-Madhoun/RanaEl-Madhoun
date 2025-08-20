@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Rana Al-Madhoun  
+### Software Engineer | Mobile Developer (Flutter & Android)  
 
-<!--
-**RanaEl-Madhoun/RanaEl-Madhoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building apps that make life easier and more inclusive.  
+🌱 Currently improving my skills in Native Mobile Applications.
+---
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** Dart, Java, Python, SQL, PHP 
+- **Mobile Development:** Flutter, Android  
+- **Backend:** Firebase, REST APIs  
+- **Other Tools:** Git, Agile, UI/UX design basics, System Design 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📱 Featured Projects
+### 1. Delivery App  
+A Flutter + Firebase app for connecting local businesses with customers.  
+🔗 [GitHub Repo](#) | 📷 *[Add Screenshot]*  
+
+### 1. Delivery App  
+A Flutter + Firebase app for connecting local businesses with customers.  
+🔗 <img width="1080" height="1080" alt="mockenglish" src="https://github.com/user-attachments/assets/eac2439a-a35a-4fe2-b8dd-1261181df333" />
+
+
+---
+
+## 🎓 Education
+- B.Sc. Computer Systems Engineering, GPA: 89% with honor degree
+---
+
+## 📫 Contact Me
+- Email: ranaalmadhoun002@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rana-almadhoun-5a290824b/ 
+- GitHub: [Your GitHub](#)  
