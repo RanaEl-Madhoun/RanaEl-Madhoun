@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Rana Al-Madhoun  
 ### Software Engineer | Mobile Developer   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=900&center=true&vCenter=true&width=700&height=60&lines=👋+Hi%2C+I'm+Rana+Al-Madhoun;Software+Engineer+%7C+Mobile+Developer)](https://git.io/typing-svg)
+
 
 💡 Passionate about building apps that make life easier and more inclusive.  
-🌱 Currently improving my skills in Native Mobile Applications.
+🌱 Currently improving my skills in Native Mobile Applications and AI.
 ---
 
 ## 🚀 Skills
@@ -23,10 +25,9 @@ A Flutter + Firebase app for connecting local businesses with customers.
 ---
 
 ## 🎓 Education
-- B.Sc. Computer Systems Engineering, GPA: 89% with honor degree
+- B.Sc. Computer Systems Engineering, GPA: 89% with honors degree
 ---
 
 ## 📫 Contact Me
 - Email: ranaalmadhoun002@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/rana-almadhoun-5a290824b/ 
-- GitHub: [Your GitHub](#)  
