@@ -24,7 +24,7 @@ https://ranael-madhoun.github.io/Portfolio/
 Hi! I'm Rana, a Computer Systems Engineering graduate Focused on building impactful applications and solving real-world problems.
 
 - 💡 Interested in: AI, Mobile Development, and Data-driven systems  
-- 📱 Specialized in Flutter & Firebase   
+- 📱 Specialized in Flutter Framework  
 
 ---
 
